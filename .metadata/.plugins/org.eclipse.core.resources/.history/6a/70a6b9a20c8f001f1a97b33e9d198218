@@ -1,0 +1,14 @@
+package selenium_project;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class SeleniumTestTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
